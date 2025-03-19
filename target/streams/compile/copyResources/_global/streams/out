@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\juan.bedoya\Documents\ScalaPlayProyecto\conf\application.conf,C:\Users\juan.bedoya\Documents\ScalaPlayProyecto\target\scala-2.13\classes\application.conf)
+[debug] 	(C:\Users\juan.bedoya\Documents\ScalaPlayProyecto\conf\logback.xml,C:\Users\juan.bedoya\Documents\ScalaPlayProyecto\target\scala-2.13\classes\logback.xml)
+[debug] 	(C:\Users\juan.bedoya\Documents\ScalaPlayProyecto\conf\routes,C:\Users\juan.bedoya\Documents\ScalaPlayProyecto\target\scala-2.13\classes\routes)

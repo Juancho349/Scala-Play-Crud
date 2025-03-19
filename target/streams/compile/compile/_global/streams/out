@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\juan.bedoya\Documents\ProyectoScala\play-samples\play-scala-starter-example\app\views\welcome.scala.html:75:19: not found: value routes[0m
+[0m[[0m[31merror[0m] [0m[0m        <a href="@routes.AsyncController.message">Click here for the AsyncController action!</a>[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\juan.bedoya\Documents\ProyectoScala\play-samples\play-scala-starter-example\app\views\welcome.scala.html:89:19: not found: value routes[0m
+[0m[[0m[31merror[0m] [0m[0m        <a href="@routes.CountController.count">Click here for the CountController action!</a>[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

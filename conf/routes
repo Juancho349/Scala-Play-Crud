@@ -1,0 +1,17 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+#rutas anterior controlador
+
+GET     /async                   controllers.AsyncController.message
+GET     /count                   controllers.CountController.count
+# RUTAS
+POST     /personas                         infraestructura.controlador.controladorPersona.crear()
+PUT      /personas                         infraestructura.controlador.controladorPersona.actualizar()
+DELETE   /personas/:id                   infraestructura.controlador.controladorPersona.eliminar(id: Int)
+GET      /personas/:id                   infraestructura.controlador.controladorPersona.obtenerPorId(id: Int)
+GET      /personas/nombre/:inicialNombre  infraestructura.controlador.controladorPersona.obtenerPorInicialNombre(inicialNombre: String)
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.versioned(file)
